@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_Brainfuck_Basic", "Homework_Brainfuck_Basic\Homework_Brainfuck_Basic.csproj", "{AAF19B88-BB27-4389-8C29-DA48A437D18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF19B88-BB27-4389-8C29-DA48A437D18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF19B88-BB27-4389-8C29-DA48A437D18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF19B88-BB27-4389-8C29-DA48A437D18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF19B88-BB27-4389-8C29-DA48A437D18A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7A400C-9401-41F0-8B22-71532AC25E66}
+	EndGlobalSection
+EndGlobal
